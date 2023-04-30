@@ -1,0 +1,49 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >Back home."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Reimu failed to 1CC the game."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "She spent all her money on continues."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"Man."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Next try will be THE run, I'm sure.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Spoiler: It wasn't."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "6_1": {
+            "lines": [
+                "<c$Ending No.07 — You are now broke.$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Who uses continues in SA?!$>"
+            ]
+        }
+    }
+}
